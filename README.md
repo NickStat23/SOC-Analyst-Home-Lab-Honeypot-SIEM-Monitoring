@@ -79,6 +79,12 @@ Microsoft Sentinel workbook displaying a real-time global attack map of brute-fo
 
 ---
 
+## 📌 Credits
+
+Lab inspired by and built following [Josh Madakor's](https://www.youtube.com/@JoshMadakor) SOC analyst home lab tutorial.
+
+---
+
 ## 🙋 Author
 
 **Nick Efstathiou**
