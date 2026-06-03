@@ -87,6 +87,6 @@ Lab inspired by and built following [Josh Madakor's](https://www.youtube.com/@Jo
 
 ## 🙋 Author
 
-**Nick Efstathiou**
+**Nicholas Efstathiou**
 Cybersecurity | SOC Analysis | Cloud Security
 [LinkedIn](https://www.linkedin.com/in/NickStat23)
